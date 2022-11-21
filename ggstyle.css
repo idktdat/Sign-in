@@ -1,0 +1,68 @@
+body{
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 80%;
+    position: absolute;
+    min-height: 80vh; 
+    margin-left: 110.2px;
+    padding: 48px;
+    margin-right: 110.2px;
+
+}
+button{
+    color: white;
+    background-color: dodgerblue;
+    border-radius: 6px;
+    width: 110.7px;
+    height: 48px;
+    float: right;
+
+}
+link{
+    color: royalblue;
+}
+#form-group{
+    left: 0px;
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    width: 100%;
+
+    
+}
+img{
+   width: 75px;
+height: 24px;
+}
+h2{
+    font-size: 140%;
+    margin-left: -299px;
+}
+h1{
+    font-size: auto;
+}
+p{
+padding-bottom: 3px;
+padding-top: 9px;
+    font-size: larger;
+    content: auto;
+    display: inline-block;
+    height: 50px;
+    padding: 9px;
+    
+    
+}
+input{
+    width: 490.6px;
+    height: 70.2px;
+}
+::placeholder{
+    font-size: 150%;
+}
+h4{
+    font-size: 20px;
+    float: left;
+    margin-top: 10px;
+}
+
